@@ -1,7 +1,7 @@
 # Keyboard Maestro Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/6265/m/keyboard-maestro-logo.png?v=1662471303" width="200" alt="Keyboard Maestro icon"/>
+  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3053%2FPNG%2F512%2Fkeyboard_maestro_macos_bigsur_icon_190042.png&id=190042&pack_or_individual=pack" width="200" alt="Keyboard Maestro icon"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ The <a href="#">macro editor</a> builds automations by assembling actions from a
 ---
 
 <p align="center">
-  <img src="https://thesweetsetup.com/wp-content/uploads/2019/08/keyboardmaestro.jpg" alt="Keyboard Maestro screenshot 2"/>
+  <img src="https://sixcolors.com/wp-content/uploads/2021/04/keyboard-maestro-interface.jpeg" alt="Keyboard Maestro screenshot 2"/>
 </p>
 
 ---
